@@ -22,7 +22,7 @@ authors:
 year: 2026
 doi: 10.48550/arXiv.2605.11246
 url: "https://arxiv.org/abs/2605.11246"
-repository-code: "https://github.com/HarryYoung2018/spade"
+repository-code: "https://github.com/New-Ground-AI/SPADE"
 license: MIT
 preferred-citation:
   type: conference-paper

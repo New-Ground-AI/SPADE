@@ -10,13 +10,14 @@ Accepted by **ICML 2026**.
 [![ICML 2026](https://img.shields.io/badge/ICML-2026-243b6b.svg)](https://icml.cc/)
 [![Python](https://img.shields.io/badge/python-3.9%2B-3776ab.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Project page](https://img.shields.io/badge/project-page-1f6feb.svg)](https://harryyoung2018.github.io/spade/)
+[![Project page](https://img.shields.io/badge/project-page-1f6feb.svg)](https://new-ground-ai.github.io/SPADE/)
 
 | Resource | Link |
 |---|---|
 | Paper | [arXiv:2605.11246](https://arxiv.org/abs/2605.11246) |
 | PDF | [arXiv PDF](https://arxiv.org/pdf/2605.11246) |
-| Project page | [harryyoung2018.github.io/spade](https://harryyoung2018.github.io/spade/) |
+| Project page | [new-ground-ai.github.io/SPADE](https://new-ground-ai.github.io/SPADE/) |
+| Community overview | [SPADE at New Ground AI](https://new-ground-ai.github.io/projects/spade/) |
 | Poster | [ICML 2026 poster](docs/assets/files/spade_icml2026_poster.pdf) |
 | Slides | [PDF](docs/assets/files/spade_icml2026_slides.pdf) · [PPTX](docs/assets/files/spade_icml2026_slides.pptx) |
 
@@ -162,7 +163,7 @@ tests/
 
 The project page is served from `docs/` via GitHub Pages:
 
-https://harryyoung2018.github.io/spade/
+https://new-ground-ai.github.io/SPADE/
 
 Local preview:
 

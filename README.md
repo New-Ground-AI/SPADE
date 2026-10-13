@@ -67,7 +67,7 @@ p(x | y) \propto p(y | x)p(x)
 ## Installation
 
 ```bash
-git clone https://github.com/HarryYoung2018/spade.git
+git clone https://github.com/New-Ground-AI/SPADE.git spade
 cd spade
 
 conda create -n spade python=3.10 -y

@@ -20,8 +20,8 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://harryyoung2018.github.io/spade/"
-Repository = "https://github.com/HarryYoung2018/spade"
+Homepage = "https://new-ground-ai.github.io/SPADE/"
+Repository = "https://github.com/New-Ground-AI/SPADE"
 Paper = "https://arxiv.org/abs/2605.11246"
 
 [project.optional-dependencies]
